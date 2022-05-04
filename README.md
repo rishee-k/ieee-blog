@@ -66,7 +66,7 @@ Microprocessor technology has improved performance by three orders of magnitude 
 
 As the transistor shrinks, the supply voltage decreases, as does the threshold voltage of the transistor (when the transistor begins to conduct). But the transistor is not a perfect switch, it loses a small amount of current when turned off, increasing exponentially as the threshold voltage decreases. Additionally, the integrating capacitance of exponentially rising transistors exacerbates the effect; therefore, a substantial part of the energy consumption is due to losses.To keep losses under control, the threshold voltage cannot be lowered any further and, in fact, must rise, which reduces transistor performance. As transistors have reached atomic size, lithography and variability pose further scaling issues, which affect supply voltage scaling. .11 With limited scaling of the supply voltage, energy and power reduction are limited, which negatively affects the subsequent integration of transistors. Therefore, the ability to integrate transistors will continue with scaling, albeit with limited performance and power benefits. The challenge for chip architects is to use this integration capability to continue to improve performance.
 
-## Recourses
+## Resourses
 
 https://cacm.acm.org/magazines/2011/5/107702-the-future-of-microprocessors/fulltext#:~:text=Multiple%20cores%20and%20customization%20will,customization%20can%20reduce%20execution%20latency.
 
