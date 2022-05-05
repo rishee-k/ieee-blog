@@ -43,6 +43,9 @@ Superscalar Processors
 Application Specific Integrated Circuit
 Digital Signal Multiprocessors
 
+![istockphoto-1296135863-170667a](https://user-images.githubusercontent.com/78703003/166898405-15dbbeb3-d51e-4cbc-983f-c0a89c95b728.jpg)
+
+
 
 ## Complex Instruction Set Microprocessors
 
