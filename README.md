@@ -36,7 +36,7 @@ The evolution of microprocessors has become the brains of millions of gadgets si
 ## Types of Microprocessors
 
 
-##There are basically 5 types of microprocessors:
+## There are basically 5 types of microprocessors:
 Complex Instruction Set Microprocessors
 Reduced Instruction Set Microprocessor
 Superscalar Processors
@@ -55,11 +55,11 @@ Digital Signal Multiprocessors
 
 They are also called CISM for short and classify a microprocessor in which commands can be executed alongside other low-level tasks. It mainly performs the task of uploading, downloading and recovering data to and from  memory card. In addition to that, it also performs complex mathematical calculations within a single command.
 
-##Reduced Instruction Set Microprocessor
+## Reduced Instruction Set Microprocessor
 
 This processor is also called RISC. These types of chips are made based on the function where the microprocessor can do small things in a given command. This way it executes more commands at  faster speed.
 
-##Application Specific Integrated Circuit
+## Application Specific Integrated Circuit
 
 
 ![images](https://user-images.githubusercontent.com/78703003/166898600-70826849-6290-41e0-93e5-4fb3f181b413.jpg)
@@ -73,11 +73,11 @@ This processor is also known as ASIC. They are used for specific purposes that c
 
 
 
-##Digital Signal Multiprocessors
+## Digital Signal Multiprocessors
 
 Also called DSPs, they are used to encode and decode video or  convert  digital and video to analog and analog to digital. They need an excellent microprocessor for mathematical calculations. Chips from this processor are used in SONAR, RADAR, home theater audio equipment, cell phones, and TV set-top boxes.
 
-##Future of microprocessor
+## Future of microprocessor
 Microprocessor technology has improved performance by three orders of magnitude over the past two decades, so continuing this trajectory would require at least a 30-fold increase in performance  by 2020. Microprocessor performance scaling is facing new challenges (see Table 1). of energy-efficient microarchitecture innovations developed over the past two decades. Additionally, chip architects  face these challenges with a continued industry expectation of a 30x performance increase over the next decade and 1,000x  by 2030 (see Table 2).
 
 As the transistor shrinks, the supply voltage decreases, as does the threshold voltage of the transistor (when the transistor begins to conduct). But the transistor is not a perfect switch, it loses a small amount of current when turned off, increasing exponentially as the threshold voltage decreases. Additionally, the integrating capacitance of exponentially rising transistors exacerbates the effect; therefore, a substantial part of the energy consumption is due to losses.To keep losses under control, the threshold voltage cannot be lowered any further and, in fact, must rise, which reduces transistor performance. As transistors have reached atomic size, lithography and variability pose further scaling issues, which affect supply voltage scaling. .11 With limited scaling of the supply voltage, energy and power reduction are limited, which negatively affects the subsequent integration of transistors. Therefore, the ability to integrate transistors will continue with scaling, albeit with limited performance and power benefits. The challenge for chip architects is to use this integration capability to continue to improve performance.
