@@ -43,7 +43,11 @@ Superscalar Processors
 Application Specific Integrated Circuit
 Digital Signal Multiprocessors
 
+
+
 ![istockphoto-1296135863-170667a](https://user-images.githubusercontent.com/78703003/166898405-15dbbeb3-d51e-4cbc-983f-c0a89c95b728.jpg)
+
+
 
 
 
@@ -56,10 +60,17 @@ They are also called CISM for short and classify a microprocessor in which comma
 This processor is also called RISC. These types of chips are made based on the function where the microprocessor can do small things in a given command. This way it executes more commands at  faster speed.
 
 ##Application Specific Integrated Circuit
+
+
 ![images](https://user-images.githubusercontent.com/78703003/166898600-70826849-6290-41e0-93e5-4fb3f181b413.jpg)
 
+
+
 This processor is also known as ASIC. They are used for specific purposes that comprise automotive emissions control or personal digital assistants’ computer. 
+
+
 ![download](https://user-images.githubusercontent.com/78703003/166898902-603b3f3b-62fe-4fcd-ae9c-0f7b6533b930.jpg)
+
 
 
 ##Digital Signal Multiprocessors
